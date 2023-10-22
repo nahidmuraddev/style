@@ -1,0 +1,11 @@
+.card {
+  display: flex;
+  flex-direction: column;
+}
+.canvasHidden {
+  display: none;
+  width: 100%;
+}
+.canvasPhoto {
+  width: 100%;
+}
